@@ -1,0 +1,14 @@
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.AssemblyInfoInputs.cache
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.AssemblyInfo.cs
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.csproj.CoreCompileInputs.cache
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\bin\Debug\net8.0\Assessment for KLK.exe
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\bin\Debug\net8.0\Assessment for KLK.deps.json
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\bin\Debug\net8.0\Assessment for KLK.runtimeconfig.json
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\bin\Debug\net8.0\Assessment for KLK.dll
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\bin\Debug\net8.0\Assessment for KLK.pdb
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.dll
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\refint\Assessment for KLK.dll
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.pdb
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\Assessment for KLK.genruntimeconfig.cache
+C:\Users\seanl\Desktop\KLK\Assessment for KLK\Assessment for KLK\obj\Debug\net8.0\ref\Assessment for KLK.dll
